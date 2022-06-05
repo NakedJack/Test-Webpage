@@ -1,0 +1,61 @@
+body{
+    font-family: "Roboto";
+    display: flex; 
+    flex-direction: column;
+  
+}
+h1{
+    font-weight: 800;
+    color: #f9faf8;
+    size: 48px;
+}
+
+h2{
+    color: #f9faf8;
+    size: 24px;
+}
+
+h5{
+    color: #e5e7eb;
+    size: 18px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    background-color: #1F2937;
+}
+
+.hero{
+    background-color: #1F2937;
+}
+
+.info{
+    font-weight: 800;
+    color: #1F2937;
+    size: 36px;
+    
+}
+
+.quote{
+    background-color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+    color: #f9faf8;
+    size: 36px;
+}
+
+.callToAction{
+    background-color: #3882f6;
+
+}
+
+.footer{
+    background-color: #1F2937;
+}
